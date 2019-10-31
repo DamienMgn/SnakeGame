@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #7FB3D5;
+}
+
+#canvas {
+    background-color: #273746;
+}
+
+#button {
+    width: 6em;
+    height: 2em;
+    border: none;
+    background-color: #273746;
+    color: white;
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+    border-radius: 10px;
+}
+
+#count {
+    font-size: 1.5em;
+    color: #273746;
+    font-weight: bold;
+}
